@@ -3,4 +3,4 @@
 ./asm_gen_non-mod-Oz.sh
 ./asm_gen_mod-Oz.sh
 
-./compare_s.sh > temp-ldecod
+./compare_s.sh > temp
